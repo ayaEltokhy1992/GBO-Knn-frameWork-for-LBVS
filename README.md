@@ -1,0 +1,2 @@
+# GBO-Knn-frameWork-for-LBVS
+This is code of paper proposed a framework based on a wrapper selection approach for features selection. It consists of an optimizer, Gradient-Based Optimizer (GBO), that hybridized with the  classifier, k-nearest neighbor (k-NN). The performance of the introduced framework, GBO-KNN, is evaluated using real-world benchmark dataset; the Monoamine Oxidase (MAO) that consisted of 1665 features
